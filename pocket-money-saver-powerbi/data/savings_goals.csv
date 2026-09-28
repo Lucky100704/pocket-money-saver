@@ -1,0 +1,4 @@
+goal_id,user_id,name,target,saved,deadline
+1,1,TFSA 2026,6000,3200,2026-12-31
+2,1,Emergency Fund,5000,4100,2027-03-31
+3,1,MacBook Upgrade,2400,900,2027-06-30

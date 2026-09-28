@@ -1,0 +1,2 @@
+month,forecast_fixed,forecast_variable,forecast_total,method
+2026-10,1953.46,1030.29,2983.76,weighted 3-mo moving avg (0.5/0.3/0.2)

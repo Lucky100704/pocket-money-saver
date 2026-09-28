@@ -1,0 +1,7 @@
+month,category,budget,actual,remaining,pct_used,status
+2026-09,Groceries,550.0,559.06,-9.06,1.0165,over
+2026-09,Dining,180.0,204.58,-24.58,1.1366,over
+2026-09,Transport,150.0,85.88,64.12,0.5725,under
+2026-09,Entertainment,100.0,44.22,55.78,0.4422,under
+2026-09,Shopping,200.0,58.74,141.26,0.2937,under
+2026-09,Subscriptions,60.0,47.62,12.38,0.7937,on-track

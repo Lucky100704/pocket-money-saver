@@ -1,0 +1,6 @@
+recurring_id,user_id,category,amount,frequency,next_date
+1,1,Rent,1450,monthly,2026-10-01
+2,1,Internet,75,monthly,2026-10-05
+3,1,Phone,55,monthly,2026-10-08
+4,1,Subscriptions,16,monthly,2026-10-12
+5,1,Salary,3800,monthly,2026-10-15
